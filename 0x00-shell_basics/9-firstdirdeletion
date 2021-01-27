@@ -1,1 +1,2 @@
-rmdir -r /tmp 
+#!/bin/bash
+rmdir -r /tmp
