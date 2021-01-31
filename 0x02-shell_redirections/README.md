@@ -1,0 +1,1 @@
+this file about shell redirections you have to readme !! now! 
